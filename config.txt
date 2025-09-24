@@ -1,0 +1,3 @@
+csv_file=prompts_da_testare.csv
+agent_id=IL_TUO_AGENT_ID
+url=URL_DEL_TUO_AGENTE_QUI
