@@ -25,5 +25,3 @@ Ho implementato una campagna di test automatizzati usando **Promptfoo** per orch
 ## 📈 Risultati
 
 I risultati dei test hanno permesso di misurare la robustezza dell'agente tramite specifici KPI, identificando le vulnerabilità residue e fornendo una valutazione oggettiva dell'efficacia delle misure di sicurezza implementate.
-
-*(Consiglio: Inserisci qui uno screenshot dei risultati di Promptfoo, come quello che hai nella tesi! Puoi trascinare l'immagine direttamente nell'editor del README su GitHub).*
