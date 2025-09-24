@@ -205,3 +205,17 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# -----------------------------------------------
+# REGOLE PERSONALIZZATE PER IL PROGETTO
+# -----------------------------------------------
+
+# Ignora il file di configurazione contenente le credenziali
+/autoaisuru-main/config.txt
+
+# Ignora i file di output generati, tranne l'esempio specifico
+*.csv
+!esempio_output_red_teaming.csv
+
+# Ignora il file YAML con tutti i prompt generati (file intermedio)
+prompts_generati.yaml
