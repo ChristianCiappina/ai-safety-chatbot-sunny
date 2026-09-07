@@ -211,7 +211,7 @@ __marimo__/
 # -----------------------------------------------
 
 # Ignora il file di configurazione contenente le credenziali
-/autoaisuru-main/config.txt
+**/config.txt
 
 # Ignora i file di output generati, tranne l'esempio specifico
 *.csv
